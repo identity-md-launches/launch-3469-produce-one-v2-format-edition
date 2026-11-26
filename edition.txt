@@ -1,0 +1,65 @@
+OPEN INTEREST / Daily brief, format v2. Thursday, 26 November 2026.
+
+LEAD: Ukraine's parliament adopts a virtual-asset bill at second reading.
+
+On 25 November 2026, Ukraine's parliament adopted a virtual-asset bill that also changes tax law. [https://www.rada.gov.ua/en/news/summari_pz/277070.html] It assigns oversight to the securities commission and central bank and sets customer-asset protections. [https://www.rada.gov.ua/en/news/summari_pz/277070.html]
+
+Draft law 10225-d amends Ukraine's Tax Code and other legislation, according to the Verkhovna Rada. [https://www.rada.gov.ua/en/news/summari_pz/277070.html] It divides supervision between the National Securities and Stock Market Commission and the National Bank of Ukraine, and sets rules for market participants and their operations. [https://www.rada.gov.ua/en/news/summari_pz/277070.html]
+
+Parliament says the bill requires transparency and separation of client assets from company assets, describing them as investor protections. [https://www.rada.gov.ua/en/news/summari_pz/277070.html] It also addresses taxes on virtual-asset transactions and a path for holders to legalize assets they acquired earlier. [https://www.rada.gov.ua/en/news/summari_pz/277070.html] The parliament says the law aims to let innovation develop transparently while accounting for financial stability and state security. [https://www.rada.gov.ua/en/news/summari_pz/277070.html]
+
+A 24 October 2024 parliamentary review said the 2022 Virtual Assets law had not entered into force. [https://www.rada.gov.ua/print/254878.html] It called tax-code changes necessary to create conditions for a legal market. [https://www.rada.gov.ua/print/254878.html]
+
+On 23 November 2026, the finance committee reported 2,562 amendments before the second-reading vote: it accepted 280, partly accepted 27, incorporated 112 editorially and rejected 2,143. [https://komfinbank.rada.gov.ua/uploads/documents/34624.pdf]
+
+The bill tracker records adoption on 25 November and lists the status as prepared for signature. [https://itd.rada.gov.ua/billinfo/Bills/Card/56271] It provides no effective date. [https://itd.rada.gov.ua/billinfo/Bills/Card/56271]
+
+The parliament's summary gives no eligibility test, tax rate, filing deadline or evidence requirements for legalizing earlier assets. [https://www.rada.gov.ua/en/news/summari_pz/277070.html] It does not say which authority handles each type of virtual-asset activity or whether regulations must follow. [https://www.rada.gov.ua/en/news/summari_pz/277070.html]
+NEWS:
+
+[NEWS] Braiins reports Bitcoin mining traffic redirected through forged routes.
+On 25 November 2026, Braiins described four episodes on 20 November when attackers rerouted miners' connections to an imposter server. [https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1]
+The company says 1,050 to 1,600 mining sites lost their usual pool connection in each episode, which lasted 6 to 49 minutes. [https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1]
+Its report gives no attacker identity or total for diverted mining rewards. [https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1]
+
+[NEWS] Switzerland approves 57 partners for crypto-asset reporting.
+On 25 November 2026, Switzerland's Federal Council approved 57 jurisdictions for automatic crypto-asset information exchange starting in 2028. [https://www.admin.ch/en/newnsb/hy3YlIU2OxQn]
+The government says exchange depends on a partner's request and compliance with OECD standards, including confidentiality and data security. [https://www.admin.ch/en/newnsb/hy3YlIU2OxQn]
+It will assess compliance before exchanging information with each jurisdiction. [https://www.admin.ch/en/newnsb/hy3YlIU2OxQn]
+
+[NEWS] Fidelity files to register a Chainlink fund.
+Fidelity Chainlink Fund filed a Form S-1 with the SEC on 25 November 2026. [https://www.sec.gov/Archives/edgar/data/2166611/000119312526477751/d85304ds1.htm]
+The filing says the fund would track LINK, Chainlink Network's native asset, after expenses. [https://www.sec.gov/Archives/edgar/data/2166611/000119312526477751/d85304ds1.htm]
+Shares are expected to trade on Nasdaq, but the preliminary prospectus says sales cannot begin before the registration becomes effective. [https://www.sec.gov/Archives/edgar/data/2166611/000119312526477751/d85304ds1.htm]
+
+TECH:
+
+[TECH] Potuz argues that faster Ethereum broadcasts could give time back to the protocol.
+In a 1 September 2026 essay, Ethereum researcher Potuz says time spent sending messages can instead support larger blocks, shorter slots or resilience. [https://www.potuz.net/posts/hegota-faster-blocks/]
+He describes chunked broadcast, which splits a payload into pieces that peers can send in parallel. [https://www.potuz.net/posts/hegota-faster-blocks/]
+Potuz warns that faster propagation adds protocol complexity and says patent concerns complicate some coding methods. [https://www.potuz.net/posts/hegota-faster-blocks/]
+
+[TECH] Provenance patched a marker-account bug that exposed live assets.
+Trail of Bits researchers Paweł Płatek and Denys Pakizh reported in August 2026 that a bug let users grant themselves admin control over Provenance marker accounts without holding the asset. [https://blog.trailofbits.com/2026/08/25/state-divergence-enables-unauthorized-access/]
+The bug affected 82 markers representing live financial assets on mainnet and versions before 1.28.0. [https://blog.trailofbits.com/2026/08/25/state-divergence-enables-unauthorized-access/]
+The researchers say a mitigation shipped on 1 May 2026 and a full fix shipped on 8 June 2026. [https://blog.trailofbits.com/2026/08/25/state-divergence-enables-unauthorized-access/]
+
+CULTURE:
+
+[CULTURE] DeFi Education Fund asks the SEC for an exit route for older protocols.
+On 20 October 2026, Amanda Tuminelli and Ayana Dow urged the SEC to let governance-authorized or unaffiliated parties file safe-harbor exit reports when a protocol has no issuer. [https://www.sec.gov/comments/S7-2026-27/s7202627-1103240-3882927.pdf]
+The authors support a safe harbor tied to the end of essential managerial efforts and reject decentralization as a standalone legal test. [https://www.sec.gov/comments/S7-2026-27/s7202627-1103240-3882927.pdf]
+Their letter also asks the SEC to clarify when developers and interface providers need registration. [https://www.sec.gov/comments/S7-2026-27/s7202627-1103240-3882927.pdf]
+
+[CULTURE] Molly White sees a new oversight fight taking shape in Washington.
+White's 24 November 2026 issue reports that committee chairs promised investigations of Donald Trump's family crypto businesses. [https://www.citationneeded.news/issue-112/]
+She links that shift to nominations for open SEC and CFTC seats and to the crypto industry's campaign spending. [https://www.citationneeded.news/issue-112/]
+White frames the debate as a fight over political access and who writes digital-asset rules. [https://www.citationneeded.news/issue-112/]
+
+READING LIST:
+[https://murmurationstwo.substack.com/p/stablecoins-are-private-money-theres] Nic Carter challenges the claim that private currencies cannot compete with state money.
+[https://multicoin.capital/2026/10/08/compute-capital-markets/] Shayon Sengupta argues that physical delivery gives compute markets a base for financial contracts.
+[https://terencechain.com/writing/glamsterdam-scaling-results-ten-days-in/] Terence Chain measures Sepolia's scaling results after Glamsterdam's activation.
+
+METHOD:
+The 48-hour sweep ran from 10:59 UTC on 24 November to 10:59 UTC on 26 November 2026. It covered parliamentary, regulator, issuer and company records, protocol forums, editions 009, 010 and 011, rehearsals and all 88 roster entries; 70 linked pages opened, 18 supplied no claims. I cut missing effective-date, licensing and eligibility details; Braiins' figures lack independent routing verification; Molly White's 24 November newsletter is the sole secondary source, with claims attributed. [https://www.rada.gov.ua/en/news/summari_pz/277070.html] [https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1] [https://www.citationneeded.news/issue-112/]
