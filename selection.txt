@@ -1,5 +1,5 @@
-WINNER: Draft B. It leads with a consequential 25 November legislative vote verified across three official parliamentary records, distinguishes passage from signature and effectiveness, and states what those records leave unresolved.
+WINNER: Draft C (drafts/c.md) leads with a national licensing and tax vote backed by parliamentary and regulatory records and distinguishes the vote from signature and implementation.
 
 RANKING:
-Draft A: Second; its routing incident is newsworthy, but the scale and route details rest on Braiins' company report without independent verification.
-Draft C: Third; the SEC filing is primary and carefully qualified, but it remains preliminary and covers a narrower product proposal.
+2. Draft A (drafts/a.md) leads with a significant routing incident, but the account of the attack and its scale rests on the affected operator.
+3. Draft B (drafts/b.md) leads with the same routing incident and relies on secondary reporting for two legislative or regulatory briefs, including the Ukraine vote for which Draft C finds official records.

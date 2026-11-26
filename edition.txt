@@ -1,65 +1,58 @@
 OPEN INTEREST / Daily brief, format v2. Thursday, 26 November 2026.
 
-LEAD: Ukraine's parliament adopts a virtual-asset bill at second reading.
+LEAD: Ukraine’s parliament passes a bill to license crypto firms and tax gains.
 
-On 25 November 2026, Ukraine's parliament adopted a virtual-asset bill that also changes tax law. [https://www.rada.gov.ua/en/news/summari_pz/277070.html] It assigns oversight to the securities commission and central bank and sets customer-asset protections. [https://www.rada.gov.ua/en/news/summari_pz/277070.html]
+The Verkhovna Rada approved a framework for crypto trading and custody on 25 November 2026. [https://www.rada.gov.ua/en/news/summari_pz/277070.html] Firms would have to keep customer assets separate from their own. [https://www.rada.gov.ua/en/news/summari_pz/277070.html]
 
-Draft law 10225-d amends Ukraine's Tax Code and other legislation, according to the Verkhovna Rada. [https://www.rada.gov.ua/en/news/summari_pz/277070.html] It divides supervision between the National Securities and Stock Market Commission and the National Bank of Ukraine, and sets rules for market participants and their operations. [https://www.rada.gov.ua/en/news/summari_pz/277070.html]
+The Rada counted 271 votes in favour on the final reading of bill 10225-d. [https://t.me/verkhovnaradaukrainy/89726?embed=1] The committee text sets 1 July 2027 as the start date for most provisions. [https://itd.rada.gov.ua/billinfo/Bills/pubFile/3777229] The parliamentary record lists the bill as being prepared for signature. [https://itd.rada.gov.ua/billinfo/Bills/Card/56271]
 
-Parliament says the bill requires transparency and separation of client assets from company assets, describing them as investor protections. [https://www.rada.gov.ua/en/news/summari_pz/277070.html] It also addresses taxes on virtual-asset transactions and a path for holders to legalize assets they acquired earlier. [https://www.rada.gov.ua/en/news/summari_pz/277070.html] The parliament says the law aims to let innovation develop transparently while accounting for financial stability and state security. [https://www.rada.gov.ua/en/news/summari_pz/277070.html]
+Ukraine had already passed a virtual assets law in 2022. [https://bank.gov.ua/admin_uploads/article/Strategy_finsector_zvit_2024_dod_en.pdf?v=13] The National Bank’s report on 2024 recorded that the law still had to take effect. [https://bank.gov.ua/admin_uploads/article/Strategy_finsector_zvit_2024_dod_en.pdf?v=13] Lawmakers approved the new bill in principle on 3 September 2025 and sent it back for revisions. [https://itd.rada.gov.ua/billinfo/Bills/Card/56271]
 
-A 24 October 2024 parliamentary review said the 2022 Virtual Assets law had not entered into force. [https://www.rada.gov.ua/print/254878.html] It called tax-code changes necessary to create conditions for a legal market. [https://www.rada.gov.ua/print/254878.html]
+The securities commission will authorise and supervise firms within its remit. [https://www.nssmc.gov.ua/ua-verkhovna-rada-ukhvalyla-zakonoproiekt-pro-rehuliuvannia-rynku-virtualnykh-aktyviv-v-ukraini/] The central bank will oversee some classes of assets and handle questions of monetary and financial stability. [https://www.nssmc.gov.ua/ua-verkhovna-rada-ukhvalyla-zakonoproiekt-pro-rehuliuvannia-rynku-virtualnykh-aktyviv-v-ukraini/] The securities commission says the bill draws on the EU’s Markets in Crypto-Assets Regulation. [https://www.nssmc.gov.ua/ua-verkhovna-rada-ukhvalyla-zakonoproiekt-pro-rehuliuvannia-rynku-virtualnykh-aktyviv-v-ukraini/]
 
-On 23 November 2026, the finance committee reported 2,562 amendments before the second-reading vote: it accepted 280, partly accepted 27, incorporated 112 editorially and rejected 2,143. [https://komfinbank.rada.gov.ua/uploads/documents/34624.pdf]
+Finance committee chair Danylo Hetmantsev, the bill’s author, said on 26 November 2026 that the tax would apply to profits from crypto transactions. [https://www.rada.gov.ua/news/news_fr/277080.html] The committee text calculates taxable gains on an annual basis and excludes swaps between crypto assets when no cash changes hands. [https://itd.rada.gov.ua/billinfo/Bills/pubFile/3777229] It gives holders of assets acquired before the rules take effect a separate option for sales into cash through 31 December 2028. [https://itd.rada.gov.ua/billinfo/Bills/pubFile/3777229]
 
-The bill tracker records adoption on 25 November and lists the status as prepared for signature. [https://itd.rada.gov.ua/billinfo/Bills/Card/56271] It provides no effective date. [https://itd.rada.gov.ua/billinfo/Bills/Card/56271]
+The committee’s second-reading text gives firms a route to apply to the securities commission from 1 May 2027. [https://itd.rada.gov.ua/billinfo/Bills/pubFile/3777229] Those authorisations would take effect from 1 July 2027. [https://itd.rada.gov.ua/billinfo/Bills/pubFile/3777229] The commission says its next job is to write the rules firms will need to operate. [https://www.nssmc.gov.ua/ua-verkhovna-rada-ukhvalyla-zakonoproiekt-pro-rehuliuvannia-rynku-virtualnykh-aktyviv-v-ukraini/]
 
-The parliament's summary gives no eligibility test, tax rate, filing deadline or evidence requirements for legalizing earlier assets. [https://www.rada.gov.ua/en/news/summari_pz/277070.html] It does not say which authority handles each type of virtual-asset activity or whether regulations must follow. [https://www.rada.gov.ua/en/news/summari_pz/277070.html]
 NEWS:
 
-[NEWS] Braiins reports Bitcoin mining traffic redirected through forged routes.
-On 25 November 2026, Braiins described four episodes on 20 November when attackers rerouted miners' connections to an imposter server. [https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1]
-The company says 1,050 to 1,600 mining sites lost their usual pool connection in each episode, which lasted 6 to 49 minutes. [https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1]
-Its report gives no attacker identity or total for diverted mining rewards. [https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1]
+[NEWS] A US bitcoin reserve bill reaches the House calendar.
+The House Financial Services Committee formally reported the amended bill on 24 November 2026, placing it on the Union Calendar. [https://www.govinfo.gov/content/pkg/BILLS-119hr8957rh/html/BILLS-119hr8957rh.htm] It would establish a bitcoin reserve and a separate stockpile for other digital assets. [https://www.govinfo.gov/content/pkg/BILLS-119hr8957rh/html/BILLS-119hr8957rh.htm] The bill would bar Treasury from selling or pledging reserve bitcoin for at least 20 years from enactment. [https://www.govinfo.gov/content/pkg/BILLS-119hr8957rh/html/BILLS-119hr8957rh.htm]
 
-[NEWS] Switzerland approves 57 partners for crypto-asset reporting.
-On 25 November 2026, Switzerland's Federal Council approved 57 jurisdictions for automatic crypto-asset information exchange starting in 2028. [https://www.admin.ch/en/newnsb/hy3YlIU2OxQn]
-The government says exchange depends on a partner's request and compliance with OECD standards, including confidentiality and data security. [https://www.admin.ch/en/newnsb/hy3YlIU2OxQn]
-It will assess compliance before exchanging information with each jurisdiction. [https://www.admin.ch/en/newnsb/hy3YlIU2OxQn]
+[NEWS] Bithumb says a data breach exposed passport numbers and wallet addresses.
+On 25 November 2026, the exchange said it had identified more people and more kinds of data affected by the breach it disclosed on 29 October 2026. [https://m-feed.bithumb.com/notice/1655458] Bithumb said the breach of internal office software exposed data including passport numbers, bank account numbers and crypto wallet addresses. [https://m-feed.bithumb.com/notice/1655458] It said it had found no evidence of direct access to its exchange systems or customer database. [https://m-feed.bithumb.com/notice/1655458]
 
-[NEWS] Fidelity files to register a Chainlink fund.
-Fidelity Chainlink Fund filed a Form S-1 with the SEC on 25 November 2026. [https://www.sec.gov/Archives/edgar/data/2166611/000119312526477751/d85304ds1.htm]
-The filing says the fund would track LINK, Chainlink Network's native asset, after expenses. [https://www.sec.gov/Archives/edgar/data/2166611/000119312526477751/d85304ds1.htm]
-Shares are expected to trade on Nasdaq, but the preliminary prospectus says sales cannot begin before the registration becomes effective. [https://www.sec.gov/Archives/edgar/data/2166611/000119312526477751/d85304ds1.htm]
+[NEWS] France’s Senate rejects disclosure for large self-custodied wallets.
+Senators rejected two identical amendments during the 24 November 2026 sitting on the 2027 budget. [https://www.senat.fr/cra/s20261124/s20261124_2.html] They would have required taxpayers to report crypto they held outside a service provider if it was worth at least €100,000 at the end of the tax year. [https://www.senat.fr/amendements/2026-2027/155/Amdt_I-2447.html] The Senate also rejected a measure that would have taxed gains when taxpayers swapped crypto for stablecoins classified as electronic money under EU rules. [https://www.senat.fr/cra/s20261124/s20261124_2.html] [https://www.senat.fr/amendements/2026-2027/155/Amdt_I-2421.html]
 
 TECH:
 
-[TECH] Potuz argues that faster Ethereum broadcasts could give time back to the protocol.
-In a 1 September 2026 essay, Ethereum researcher Potuz says time spent sending messages can instead support larger blocks, shorter slots or resilience. [https://www.potuz.net/posts/hegota-faster-blocks/]
-He describes chunked broadcast, which splits a payload into pieces that peers can send in parallel. [https://www.potuz.net/posts/hegota-faster-blocks/]
-Potuz warns that faster propagation adds protocol complexity and says patent concerns complicate some coding methods. [https://www.potuz.net/posts/hegota-faster-blocks/]
+[TECH] Anza proposes dropping work on Solana blocks that have already lost.
+Anza developer Philippe Laferrière proposed letting Agave validators stop executing a candidate block once the network finalises a rival for the same slot. [https://github.com/anza-xyz/agave/pull/17044] On 24 November 2026 he opened a prerequisite change to let the replay process keep moving while transaction execution finishes. [https://github.com/anza-xyz/agave/pull/17065]
 
-[TECH] Provenance patched a marker-account bug that exposed live assets.
-Trail of Bits researchers Paweł Płatek and Denys Pakizh reported in August 2026 that a bug let users grant themselves admin control over Provenance marker accounts without holding the asset. [https://blog.trailofbits.com/2026/08/25/state-divergence-enables-unauthorized-access/]
-The bug affected 82 markers representing live financial assets on mainnet and versions before 1.28.0. [https://blog.trailofbits.com/2026/08/25/state-divergence-enables-unauthorized-access/]
-The researchers say a mitigation shipped on 1 May 2026 and a full fix shipped on 8 June 2026. [https://blog.trailofbits.com/2026/08/25/state-divergence-enables-unauthorized-access/]
+He says the process can still wait for a transaction already in progress when a block is aborted. [https://github.com/anza-xyz/agave/pull/17065] Both changes remain open for review. [https://github.com/anza-xyz/agave/pull/17044] [https://github.com/anza-xyz/agave/pull/17065]
+
+[TECH] Base plans a transaction format with room for new signatures.
+In an interview published on 23 November 2026, Base creator Jesse Pollak said Everest would lay groundwork for wallets to adopt quantum-resistant signatures. [https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks] The new format would let users keep their addresses when adding new signature methods, according to the interview. [https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks]
+
+The draft format still uses conventional signatures. [https://github.com/ethereum/EIPs/pull/12385] Base lists no launch date for its test network or main network. [https://docs.base.org/upgrades/everest/overview]
 
 CULTURE:
 
-[CULTURE] DeFi Education Fund asks the SEC for an exit route for older protocols.
-On 20 October 2026, Amanda Tuminelli and Ayana Dow urged the SEC to let governance-authorized or unaffiliated parties file safe-harbor exit reports when a protocol has no issuer. [https://www.sec.gov/comments/S7-2026-27/s7202627-1103240-3882927.pdf]
-The authors support a safe harbor tied to the end of essential managerial efforts and reject decentralization as a standalone legal test. [https://www.sec.gov/comments/S7-2026-27/s7202627-1103240-3882927.pdf]
-Their letter also asks the SEC to clarify when developers and interface providers need registration. [https://www.sec.gov/comments/S7-2026-27/s7202627-1103240-3882927.pdf]
+[CULTURE] Uniswap contributors debate who can steer a trade.
+On 24 November 2026, Uniswap’s forum put a standard for declaring a token’s preferred or required trading pools into final review. [https://gov.uniswap.org/t/urc-5-token-venue-policy/26307] A Uniswap Labs routing contributor argued that routing software should be free to choose any trade the token’s code actually allows. [https://gov.uniswap.org/t/urc-5-token-venue-policy/26307]
 
-[CULTURE] Molly White sees a new oversight fight taking shape in Washington.
-White's 24 November 2026 issue reports that committee chairs promised investigations of Donald Trump's family crypto businesses. [https://www.citationneeded.news/issue-112/]
-She links that shift to nominations for open SEC and CFTC seats and to the crypto industry's campaign spending. [https://www.citationneeded.news/issue-112/]
-White frames the debate as a fight over political access and who writes digital-asset rules. [https://www.citationneeded.news/issue-112/]
+The proposal’s author agreed to make guidance for routers voluntary and reserve the term “enforced” for restrictions the token can impose. [https://gov.uniswap.org/t/urc-5-token-venue-policy/26307] The forum set 7 December 2026 as the deadline for comments. [https://gov.uniswap.org/t/urc-5-token-venue-policy/26307]
+
+[CULTURE] Senators and DeFi advocates split over the SEC’s proposed crypto rules.
+The Senate Banking Committee minority released a letter on 25 November 2026 asking the SEC to drop its proposed crypto offering rules. [https://www.banking.senate.gov/newsroom/minority/warren-van-hollen-and-colleagues-call-on-sec-to-rescind-efforts-to-create-special-treatment-for-crypto-assets-and-tokenized-securities] Senator Elizabeth Warren and her co-signers objected to allowing issuers to certify without SEC review that they had stopped managing a project. [https://www.banking.senate.gov/imo/media/doc/112426_letter_to_sec_re_regulation_crypto_assetspdf.pdf]
+
+On 20 October 2026, the DeFi Education Fund’s Amanda Tuminelli and Ayana Dow backed a route out of securities treatment for tokens on decentralised networks. [https://www.sec.gov/comments/S7-2026-27/s7202627-1103240-3882927.pdf] They argued that network governance should be able to appoint someone to file the exit report when the original issuer is absent. [https://www.sec.gov/comments/S7-2026-27/s7202627-1103240-3882927.pdf]
 
 READING LIST:
-[https://murmurationstwo.substack.com/p/stablecoins-are-private-money-theres] Nic Carter challenges the claim that private currencies cannot compete with state money.
-[https://multicoin.capital/2026/10/08/compute-capital-markets/] Shayon Sengupta argues that physical delivery gives compute markets a base for financial contracts.
-[https://terencechain.com/writing/glamsterdam-scaling-results-ten-days-in/] Terence Chain measures Sepolia's scaling results after Glamsterdam's activation.
+[https://murmurationstwo.substack.com/p/stablecoins-are-private-money-theres] Nic Carter compares American, Scottish and Canadian banknotes in his case for privately issued stablecoins.
+[https://www.syncracy.io/writing/social-trading-and-the-garden-of-eden] Ryan Watkins examines how trading apps turn publicly visible trades into social feeds.
+[https://cdixon.org/2018/02/18/why-decentralization-matters/] Chris Dixon argues that growing platforms can turn the developers they recruited into competitors.
 
 METHOD:
-The 48-hour sweep ran from 10:59 UTC on 24 November to 10:59 UTC on 26 November 2026. It covered parliamentary, regulator, issuer and company records, protocol forums, editions 009, 010 and 011, rehearsals and all 88 roster entries; 70 linked pages opened, 18 supplied no claims. I cut missing effective-date, licensing and eligibility details; Braiins' figures lack independent routing verification; Molly White's 24 November newsletter is the sole secondary source, with claims attributed. [https://www.rada.gov.ua/en/news/summari_pz/277070.html] [https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1] [https://www.citationneeded.news/issue-112/]
+The 48-hour sweep ended at 10:30 UTC on 26 November 2026. It covered legislative records, regulators, exchange notices, software repositories and governance forums. The sweep checked the 88-entry masthead and used accessible material, including earlier writing for context. Rotation used editions 009 through 011. [https://openinterest.news/editions.html] [https://raw.githubusercontent.com/openinterest-ai/paper/main/masthead/voices.csv] The sole repeat is Bithumb, whose disclosure is the event. Cointelegraph’s interview supplies Pollak’s account of Everest’s security aims. Exchange and legislative records support the news briefs. The edition cut a projection for Ukrainian tax revenue because the forecast lacked a confirmed collection period. [https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million]
